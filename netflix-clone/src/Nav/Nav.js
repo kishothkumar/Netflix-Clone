@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
-import logo from './assets/logo.png'
-import avatar from './assets/avatar.png'
+import logo from '../assets/logo.png'
+import avatar from '../assets/avatar.png'
 import './Nav.css'
 
 function Nav() {
